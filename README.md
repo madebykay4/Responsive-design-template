@@ -1,5 +1,7 @@
 Responsive Design Template
+
 Overview
+
 This project serves as a template and reference for creating responsive web designs. It started as a personal experiment to explore responsive design techniques without much external assistance, and evolved into a useful template for future projects.
 Features
 
@@ -10,6 +12,7 @@ Color scheme using dark background with orange accents
 Smooth transitions between different screen sizes
 
 Structure
+
 The project consists of two main files:
 
 index.html: Contains the basic structure of the webpage, including:
@@ -30,6 +33,7 @@ Extra large screen styles (min-width: 1800px)
 
 
 Usage
+
 To use this template:
 
 Clone the repository
@@ -37,6 +41,7 @@ Open index.html in a web browser
 Resize the browser window to see the responsive design in action
 
 Customization
+
 You can easily customize this template by:
 
 Modifying the color scheme in styles.css
@@ -44,6 +49,7 @@ Adjusting the breakpoints in the media queries to fit your specific needs
 Adding or removing sections in the HTML structure
 
 Learning Points
+
 This project demonstrates several key concepts in responsive web design:
 
 Use of media queries to create breakpoints
@@ -58,4 +64,5 @@ Add more interactive elements
 Optimize for performance across different devices
 
 Contributing
+
 Feel free to fork this repository and submit pull requests with any improvements or suggestions you may have.
